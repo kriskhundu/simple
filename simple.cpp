@@ -11,7 +11,7 @@
 
 int main(int argc, char* argv[])
 {
-    cout << "Hello, GIT!\n";
+    std::cout << "Hello, GIT!\n";
 
     return 0;
 }
